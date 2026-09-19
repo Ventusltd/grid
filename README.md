@@ -196,5 +196,4 @@ Nothing here is simulated. Where a number is computed rather than measured it sa
 
 ## Licence
 
-Code under Apache-2.0. Documentation and generated data under CC BY 4.0.
-No warranty is given. A chart, not a design.
+Open to all. The code is under the Apache License 2.0 (see LICENSE). Original text, tables and ledgers produced by this repository are under CC BY 4.0: use them, and say where they came from. Material belonging to others keeps its own licence, named beside it; standards are cited by clause and value and never reproduced.
