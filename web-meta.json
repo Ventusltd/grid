@@ -1,0 +1,20 @@
+{
+ "asof": "2026-09-19T12:00:07+01:00",
+ "blobs_in_one_repository_only": 40578,
+ "blobs_shared": 2235,
+ "command": "python tools/web.py --roots C:/Users/vikra/Documents/GitHub --out .",
+ "density": 0.2643,
+ "distinct_blobs": 42813,
+ "edges": 602,
+ "filaments": 2,
+ "knots": 48,
+ "largest_degree": 39,
+ "leaves": 5,
+ "method": "a blob SHA is the hash of its content, so a SHA present in two repositories means byte identical content in both. The adjacency cannot be wrong.",
+ "not_measured": "imports, forks, references and citations are also real edges and none of them are here. This graph is shared content and nothing else.",
+ "possible_edges": 2278,
+ "redacted_repositories": 6,
+ "repositories": 68,
+ "seconds": 3.4,
+ "voids": 13
+}
